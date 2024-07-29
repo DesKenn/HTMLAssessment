@@ -45,7 +45,6 @@ img {
  #teamRoster >li:first-child{
 	content: "";
 	background-image: url( "https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.svg");
-	background-position: center;
 	background-repeat: no-repeat;
 
 
@@ -54,7 +53,6 @@ img {
  #teamRoster >li:last-child{
 	content: "";
 	background-image: url( "https://upload.wikimedia.org/wikipedia/commons/5/5c/Chicago_Bears_logo.svg");
-	background-position: center;
 		background-repeat: no-repeat;
 
 	}
